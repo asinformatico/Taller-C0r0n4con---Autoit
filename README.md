@@ -5,7 +5,7 @@ Estos archivos han sido preparados para un taller de introducción y aprendizaje
 
 Pueden descargar en el entorno completo de Autoit desde https://www.autoitscript.com/site/autoit/downloads/
 
-El entorno de progarmación "ISN Auotit Studio" puede descargarse del siguiente enlace: https://www.isnetwork.at/isn-downloads/
+El entorno de progarmación "ISN Autoit Studio" puede descargarse del siguiente enlace: https://www.isnetwork.at/isn-downloads/
 
 El programa creado como ejemplo es una interface gráfica para controlar de forma sencilla el Firewall de Windows.
 
